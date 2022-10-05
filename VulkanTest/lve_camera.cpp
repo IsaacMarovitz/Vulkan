@@ -1,7 +1,6 @@
 #include "lve_camera.hpp"
 
 #include <cassert>
-#include <limits>
 
 namespace lve
 {
