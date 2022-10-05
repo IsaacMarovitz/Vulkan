@@ -1,5 +1,5 @@
 CFLAGS = -std=c++17 -O2 -arch arm64
-LDFLAGS = -I/opt/homebrew/include -L/opt/homebrew/Cellar/glfw/3.3.8/lib -lvulkan -lglfw
+LDFLAGS = -I/opt/homebrew/include -I./libs/tinyobjloader -L/opt/homebrew/Cellar/glfw/3.3.8/lib -lvulkan -lglfw
 
 vertSources = $(shell find ./shaders -type f -name "*.vert")
 vertObjFiles = $(patsubst %.vert, %.vert.spv, $(vertSources))
