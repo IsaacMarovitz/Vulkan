@@ -7,3 +7,9 @@ This project is based off of the amazing tutorial by Brendan Galea. I plan to im
 
 - Brendan's [YouTube](https://www.youtube.com/playlist?list=PL8327DO66nu9qYVKLDmdLW_84-yE4auCR)
 - Brendan's [GitHub](https://github.com/blurrypiano/littleVulkanEngine)
+
+**Dependancies**
+- glm
+- glfw
+
+You will likely need to edit the Makefile if you want to build on your machine.
