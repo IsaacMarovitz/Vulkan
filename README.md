@@ -9,6 +9,7 @@ This project is based off of the amazing tutorial by Brendan Galea. I plan to im
 - Brendan's [GitHub](https://github.com/blurrypiano/littleVulkanEngine)
 
 **Dependancies**
+- Vulkan SDK
 - glm
 - glfw
 
