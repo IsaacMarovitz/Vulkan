@@ -14,3 +14,11 @@ This project is based off of the amazing tutorial by Brendan Galea. I plan to im
 - glfw
 
 You will likely need to edit the Makefile if you want to build on your machine.
+
+Things I want to add:
+
+- ECS
+- PBR
+- IMGui
+- Post Processing
+- Particle System
